@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 📊 Análise de Vendas — SQL + Supabase
 
 Projeto de análise de dados de uma empresa fictícia de varejo, com foco em responder perguntas de negócio usando SQL no Supabase (PostgreSQL).
