@@ -1,0 +1,101 @@
+﻿ID_Venda;Data;Ano;Mês;Trimestre;Região;Representante;Categoria;Produto;Canal;Qtd;Preço_Unitário;Receita_Bruta;Desconto;Receita_Líquida;Custo_Total;Lucro_Bruto;Margem_%;Status
+VND-00001;2022-08-17;2022;8;Q3;Centro-Oeste;Bruno Lima;Eletrônicos;Fone Bluetooth;Revendedor;3;237.24;711.72;0.11;633.43;367.39;266.04;0.419999052776155;Entregue
+VND-00002;2022-07-11;2022;7;Q3;Centro-Oeste;Gabriela Rocha;Vestuário;Tênis Esportivo;Loja Física;1;280.3;280.3;0.084;256.75;107.83;148.92;0.580019474196689;Entregue
+VND-00003;2023-07-24;2023;7;Q3;Sudeste;Felipe Nunes;Eletrônicos;Notebook Pro;Online;6;4678.33;28069.98;0.042;26891.04;15596.8;11294.24;0.420000118998745;Entregue
+VND-00004;2022-07-18;2022;7;Q3;Nordeste;Bruno Lima;Alimentos;Queijo Importado;Revendedor;13;81.66;1061.58;0.007;1054.15;579.78;474.37;0.450002371578997;Entregue
+VND-00005;2023-08-24;2023;8;Q3;Sudeste;Elisa Costa;Beleza;Maquiagem Pro;Online;12;213.25;2559.0;0.01;2533.41;962.7;1570.71;0.619998342155435;Entregue
+VND-00006;2022-07-26;2022;7;Q3;Norte;Felipe Nunes;Móveis;Guarda-Roupa;Loja Física;14;1882.3;26352.2;0.055;24902.83;12949.47;11953.36;0.480000064249726;Entregue
+VND-00007;2022-05-27;2022;5;Q2;Nordeste;Elisa Costa;Beleza;Perfume Luxo;Loja Física;4;483.28;1933.12;0.025;1884.79;716.22;1168.57;0.620000106112617;Entregue
+VND-00008;2022-04-25;2022;4;Q2;Sudeste;Felipe Nunes;Vestuário;Jaqueta Inverno;Loja Física;7;371.35;2599.45;0.04;2495.47;1048.1;1447.37;0.579998958112099;Entregue
+VND-00009;2024-03-21;2024;3;Q1;Centro-Oeste;Elisa Costa;Móveis;Mesa de Jantar;Revendedor;4;1524.76;6099.04;0.112;5415.95;2816.29;2599.66;0.480000738559256;Devolvido
+VND-00010;2024-03-28;2024;3;Q1;Sul;Ana Souza;Alimentos;Vinho Reserva;Online;3;164.92;494.76;0.076;457.16;251.44;205.72;0.449995625164056;Entregue
+VND-00011;2022-11-24;2022;11;Q4;Nordeste;Elisa Costa;Móveis;Escrivaninha;Online;7;684.53;4791.71;0.089;4365.25;2269.93;2095.32;0.48;Entregue
+VND-00012;2022-08-23;2022;8;Q3;Nordeste;Carla Mendes;Beleza;Maquiagem Pro;Revendedor;6;221.28;1327.68;0.017;1305.11;495.94;809.17;0.620001379194091;Entregue
+VND-00013;2023-06-24;2023;6;Q2;Norte;Diego Alves;Beleza;Perfume Luxo;Loja Física;2;480.74;961.48;0.131;835.53;317.5;518.03;0.620001675583163;Entregue
+VND-00014;2022-11-27;2022;11;Q4;Sul;Bruno Lima;Beleza;Protetor Solar;Marketplace;10;70.44;704.4;0.049;669.88;254.55;415.33;0.620006568340598;Entregue
+VND-00015;2023-09-22;2023;9;Q3;Sul;Henrique Dias;Vestuário;Jaqueta Inverno;Online;10;331.86;3318.6;0.142;2847.36;1195.89;1651.47;0.580000421443021;Pendente
+VND-00016;2024-12-26;2024;12;Q4;Centro-Oeste;Gabriela Rocha;Vestuário;Tênis Esportivo;Loja Física;9;288.95;2600.55;0.025;2535.54;1064.93;1470.61;0.579998737941425;Devolvido
+VND-00017;2023-02-16;2023;2;Q1;Centro-Oeste;Henrique Dias;Alimentos;Café Premium;Online;11;65.94;725.34;0.056;684.72;376.6;308.12;0.449994158196051;Entregue
+VND-00018;2022-05-12;2022;5;Q2;Sul;Bruno Lima;Alimentos;Cesta Orgânica;Online;4;91.59;366.36;0.088;334.12;183.77;150.35;0.449988028253322;Entregue
+VND-00019;2022-03-06;2022;3;Q1;Sudeste;Carla Mendes;Alimentos;Cesta Orgânica;Revendedor;5;90.25;451.25;0.1;406.12;223.37;182.75;0.449990150694376;Entregue
+VND-00020;2024-08-26;2024;8;Q3;Nordeste;Gabriela Rocha;Móveis;Mesa de Jantar;Revendedor;11;1470.18;16171.98;0.065;15120.8;7862.82;7257.98;0.479999735463732;Entregue
+VND-00021;2022-04-21;2022;4;Q2;Sul;Diego Alves;Eletrônicos;Smartphone X12;Loja Física;6;1764.94;10589.64;0.12;9318.88;5404.95;3913.93;0.420000042923613;Entregue
+VND-00022;2024-07-07;2024;7;Q3;Sul;Henrique Dias;Vestuário;Calça Jeans;Online;8;168.61;1348.88;0.037;1298.97;545.57;753.4;0.579997998414128;Entregue
+VND-00023;2022-01-31;2022;1;Q1;Nordeste;Ana Souza;Eletrônicos;Notebook Pro;Loja Física;8;4199.68;33597.44;0.072;31178.42;18083.48;13094.94;0.420000115464478;Entregue
+VND-00024;2024-03-10;2024;3;Q1;Centro-Oeste;Henrique Dias;Alimentos;Café Premium;Loja Física;12;57.42;689.04;0.144;589.82;324.4;265.42;0.450001695432505;Entregue
+VND-00025;2023-03-22;2023;3;Q1;Sul;Ana Souza;Eletrônicos;"Tablet 10""";Revendedor;1;1256.58;1256.58;0.112;1115.84;647.19;468.65;0.419997490679667;Entregue
+VND-00026;2024-12-23;2024;12;Q4;Sul;Bruno Lima;Vestuário;Jaqueta Inverno;Loja Física;2;382.25;764.5;0.128;666.64;279.99;386.65;0.579998199927997;Entregue
+VND-00027;2023-05-20;2023;5;Q2;Centro-Oeste;Felipe Nunes;Beleza;Protetor Solar;Marketplace;2;59.02;118.04;0.063;110.6;42.03;68.57;0.61998191681736;Entregue
+VND-00028;2023-10-06;2023;10;Q4;Nordeste;Felipe Nunes;Vestuário;Camisa Social;Online;11;117.5;1292.5;0.097;1167.13;490.19;676.94;0.580003941291887;Entregue
+VND-00029;2022-07-24;2022;7;Q3;Norte;Bruno Lima;Eletrônicos;"Tablet 10""";Loja Física;5;1131.16;5655.8;0.02;5542.68;3214.75;2327.93;0.420000793839803;Entregue
+VND-00030;2022-11-20;2022;11;Q4;Centro-Oeste;Ana Souza;Móveis;Escrivaninha;Marketplace;10;780.53;7805.3;0.148;6650.12;3458.06;3192.06;0.480000360895743;Devolvido
+VND-00031;2022-08-01;2022;8;Q3;Sudeste;Elisa Costa;Vestuário;Camisa Social;Marketplace;2;110.77;221.54;0.111;196.95;82.72;114.23;0.57999492256918;Entregue
+VND-00032;2023-12-04;2023;12;Q4;Sul;Bruno Lima;Vestuário;Camisa Social;Revendedor;5;120.13;600.65;0.136;518.96;217.96;301.0;0.580006166178511;Entregue
+VND-00033;2022-04-01;2022;4;Q2;Sudeste;Henrique Dias;Eletrônicos;Fone Bluetooth;Revendedor;11;263.56;2899.16;0.147;2472.98;1434.33;1038.65;0.419999353007303;Entregue
+VND-00034;2022-08-18;2022;8;Q3;Centro-Oeste;Carla Mendes;Eletrônicos;Notebook Pro;Revendedor;14;4541.03;63574.42;0.055;60077.83;34845.14;25232.69;0.420000023303105;Entregue
+VND-00035;2023-09-24;2023;9;Q3;Sul;Felipe Nunes;Alimentos;Cesta Orgânica;Revendedor;4;97.18;388.72;0.102;349.07;191.99;157.08;0.44999570286762;Pendente
+VND-00036;2022-11-13;2022;11;Q4;Nordeste;Ana Souza;Vestuário;Tênis Esportivo;Loja Física;13;306.67;3986.71;0.027;3879.07;1629.21;2249.86;0.57999984532375;Entregue
+VND-00037;2023-11-12;2023;11;Q4;Nordeste;Ana Souza;Móveis;Mesa de Jantar;Revendedor;13;1525.38;19829.94;0.105;17747.8;9228.86;8518.94;0.479999774619953;Entregue
+VND-00038;2024-07-31;2024;7;Q3;Sul;Diego Alves;Alimentos;Queijo Importado;Revendedor;14;85.13;1191.82;0.034;1151.3;633.22;518.08;0.449995657083297;Entregue
+VND-00039;2022-05-23;2022;5;Q2;Centro-Oeste;Felipe Nunes;Alimentos;Queijo Importado;Online;7;82.26;575.82;0.102;517.09;284.4;232.69;0.449999033050339;Entregue
+VND-00040;2023-06-19;2023;6;Q2;Centro-Oeste;Gabriela Rocha;Vestuário;Vestido Casual;Marketplace;5;240.35;1201.75;0.006;1194.54;501.71;692.83;0.579997321144541;Entregue
+VND-00041;2023-10-05;2023;10;Q4;Centro-Oeste;Diego Alves;Móveis;Escrivaninha;Marketplace;2;822.64;1645.28;0.058;1549.85;805.92;743.93;0.480001290447463;Entregue
+VND-00042;2024-06-12;2024;6;Q2;Sudeste;Felipe Nunes;Eletrônicos;"Tablet 10""";Revendedor;9;1302.14;11719.26;0.103;10512.18;6097.06;4415.12;0.420000418562087;Entregue
+VND-00043;2023-11-08;2023;11;Q4;Norte;Elisa Costa;Beleza;Maquiagem Pro;Revendedor;2;216.86;433.72;0.108;386.88;147.01;239.87;0.620011373035567;Entregue
+VND-00044;2023-08-29;2023;8;Q3;Sudeste;Elisa Costa;Beleza;Perfume Luxo;Revendedor;11;450.42;4954.62;0.141;4256.02;1617.29;2638.73;0.619999436092875;Entregue
+VND-00045;2022-01-01;2022;1;Q1;Norte;Henrique Dias;Alimentos;Queijo Importado;Revendedor;13;75.36;979.68;0.087;894.45;491.95;402.5;0.449997204986304;Entregue
+VND-00046;2023-03-14;2023;3;Q1;Sul;Elisa Costa;Beleza;Shampoo Premium;Marketplace;13;89.99;1169.87;0.11;1041.18;395.65;645.53;0.619998463282045;Entregue
+VND-00047;2023-04-27;2023;4;Q2;Sudeste;Henrique Dias;Alimentos;Vinho Reserva;Online;3;159.2;477.6;0.004;475.69;261.63;214.06;0.449998948895289;Entregue
+VND-00048;2023-02-03;2023;2;Q1;Sul;Bruno Lima;Móveis;Cama Queen;Revendedor;3;2155.85;6467.55;0.098;5833.73;3033.54;2800.19;0.479999931433234;Entregue
+VND-00049;2024-11-26;2024;11;Q4;Nordeste;Carla Mendes;Móveis;Sofá 3 Lugares;Revendedor;15;2832.15;42482.25;0.127;37087.0;19285.24;17801.76;0.48;Entregue
+VND-00050;2023-10-12;2023;10;Q4;Centro-Oeste;Henrique Dias;Móveis;Escrivaninha;Loja Física;15;797.25;11958.75;0.076;11049.89;5745.94;5303.95;0.480000253396188;Entregue
+VND-00051;2024-08-30;2024;8;Q3;Centro-Oeste;Henrique Dias;Móveis;Guarda-Roupa;Loja Física;14;1995.68;27939.52;0.096;25257.33;13133.81;12123.52;0.480000063347947;Entregue
+VND-00052;2022-06-08;2022;6;Q2;Sul;Carla Mendes;Alimentos;Vinho Reserva;Loja Física;6;143.15;858.9;0.134;743.81;409.1;334.71;0.449993950067894;Entregue
+VND-00053;2022-11-09;2022;11;Q4;Nordeste;Ana Souza;Vestuário;Jaqueta Inverno;Loja Física;6;344.04;2064.24;0.081;1897.04;796.76;1100.28;0.579998313161557;Entregue
+VND-00054;2024-03-08;2024;3;Q1;Nordeste;Ana Souza;Beleza;Kit Skincare;Marketplace;13;342.83;4456.79;0.086;4073.51;1547.93;2525.58;0.620000932856431;Entregue
+VND-00055;2024-03-09;2024;3;Q1;Sudeste;Henrique Dias;Móveis;Escrivaninha;Loja Física;9;787.13;7084.17;0.12;6234.07;3241.72;2992.35;0.47999942252814;Entregue
+VND-00056;2024-09-21;2024;9;Q3;Sudeste;Henrique Dias;Eletrônicos;Smartwatch;Loja Física;11;870.5;9575.5;0.12;8426.44;4887.34;3539.1;0.419999430364424;Pendente
+VND-00057;2024-12-29;2024;12;Q4;Nordeste;Carla Mendes;Eletrônicos;Smartwatch;Revendedor;11;916.54;10081.94;0.004;10041.61;5824.13;4217.48;0.420000378425372;Entregue
+VND-00058;2023-06-17;2023;6;Q2;Nordeste;Elisa Costa;Móveis;Guarda-Roupa;Revendedor;6;1790.43;10742.58;0.051;10194.71;5301.25;4893.46;0.47999992152793;Entregue
+VND-00059;2022-06-17;2022;6;Q2;Norte;Diego Alves;Móveis;Sofá 3 Lugares;Online;1;2939.45;2939.45;0.15;2498.53;1299.24;1199.29;0.479998238964511;Entregue
+VND-00060;2022-03-24;2022;3;Q1;Sudeste;Carla Mendes;Eletrônicos;Notebook Pro;Revendedor;1;4229.42;4229.42;0.093;3836.08;2224.93;1611.15;0.419999061541991;Entregue
+VND-00061;2023-03-23;2023;3;Q1;Sul;Carla Mendes;Móveis;Guarda-Roupa;Marketplace;3;2001.42;6004.26;0.091;5457.87;2838.09;2619.78;0.480000439731983;Entregue
+VND-00062;2022-02-22;2022;2;Q1;Sudeste;Bruno Lima;Alimentos;Chocolates Finos;Loja Física;7;46.6;326.2;0.059;306.95;168.82;138.13;0.450008144648966;Entregue
+VND-00063;2023-09-10;2023;9;Q3;Norte;Gabriela Rocha;Beleza;Kit Skincare;Marketplace;10;338.96;3389.6;0.117;2993.02;1137.35;1855.67;0.619999198134326;Entregue
+VND-00064;2023-11-30;2023;11;Q4;Norte;Henrique Dias;Eletrônicos;Smartwatch;Loja Física;2;958.02;1916.04;0.065;1791.5;1039.07;752.43;0.42;Entregue
+VND-00065;2024-12-04;2024;12;Q4;Nordeste;Gabriela Rocha;Alimentos;Chocolates Finos;Marketplace;9;47.77;429.93;0.116;380.06;209.03;171.03;0.450007893490502;Entregue
+VND-00066;2023-05-18;2023;5;Q2;Centro-Oeste;Gabriela Rocha;Eletrônicos;Fone Bluetooth;Marketplace;4;269.08;1076.32;0.113;954.7;553.73;400.97;0.419995810202158;Entregue
+VND-00067;2023-10-28;2023;10;Q4;Norte;Elisa Costa;Vestuário;Calça Jeans;Online;13;169.64;2205.32;0.039;2119.31;890.11;1229.2;0.580000094370338;Entregue
+VND-00068;2023-01-27;2023;1;Q1;Sudeste;Henrique Dias;Eletrônicos;Notebook Pro;Revendedor;8;4698.07;37584.56;0.083;34465.04;19989.72;14475.32;0.420000092847709;Entregue
+VND-00069;2022-02-05;2022;2;Q1;Centro-Oeste;Felipe Nunes;Eletrônicos;Fone Bluetooth;Revendedor;12;236.08;2832.96;0.036;2730.97;1583.96;1147.01;0.420000952042681;Entregue
+VND-00070;2023-12-06;2023;12;Q4;Norte;Elisa Costa;Móveis;Escrivaninha;Loja Física;12;724.62;8695.44;0.068;8104.15;4214.16;3889.99;0.47999975321286;Entregue
+VND-00071;2023-01-30;2023;1;Q1;Sudeste;Diego Alves;Alimentos;Cesta Orgânica;Revendedor;13;94.37;1226.81;0.104;1099.22;604.57;494.65;0.450000909735995;Entregue
+VND-00072;2024-12-10;2024;12;Q4;Sudeste;Felipe Nunes;Beleza;Maquiagem Pro;Loja Física;14;230.18;3222.52;0.029;3129.07;1189.05;1940.02;0.619998913415168;Entregue
+VND-00073;2024-12-29;2024;12;Q4;Sudeste;Henrique Dias;Vestuário;Camisa Social;Online;1;109.09;109.09;0.083;100.04;42.02;58.02;0.579968012794882;Entregue
+VND-00074;2023-08-06;2023;8;Q3;Norte;Henrique Dias;Móveis;Cama Queen;Online;3;2173.81;6521.43;0.145;5575.82;2899.43;2676.39;0.479999354355055;Entregue
+VND-00075;2024-03-31;2024;3;Q1;Sudeste;Elisa Costa;Móveis;Sofá 3 Lugares;Online;11;2843.13;31274.43;0.008;31024.23;16132.6;14891.63;0.479999987106852;Pendente
+VND-00076;2022-08-31;2022;8;Q3;Centro-Oeste;Gabriela Rocha;Beleza;Shampoo Premium;Revendedor;13;86.81;1128.53;0.093;1023.58;388.96;634.62;0.620000390785283;Devolvido
+VND-00077;2023-09-01;2023;9;Q3;Sul;Diego Alves;Beleza;Shampoo Premium;Loja Física;10;81.69;816.9;0.009;809.55;307.63;501.92;0.619998764745847;Entregue
+VND-00078;2022-06-16;2022;6;Q2;Nordeste;Henrique Dias;Vestuário;Tênis Esportivo;Revendedor;2;261.73;523.46;0.023;511.42;214.8;296.62;0.579992960775879;Entregue
+VND-00079;2023-04-20;2023;4;Q2;Sudeste;Elisa Costa;Alimentos;Queijo Importado;Loja Física;8;83.25;666.0;0.011;658.67;362.27;296.4;0.44999772268359;Entregue
+VND-00080;2023-04-06;2023;4;Q2;Norte;Elisa Costa;Vestuário;Camisa Social;Revendedor;2;127.84;255.68;0.009;253.38;106.42;146.96;0.579998421343437;Entregue
+VND-00081;2023-09-15;2023;9;Q3;Centro-Oeste;Ana Souza;Móveis;Guarda-Roupa;Revendedor;8;1900.18;15201.44;0.066;14198.14;7383.03;6815.11;0.48000019720893;Entregue
+VND-00082;2023-05-28;2023;5;Q2;Centro-Oeste;Ana Souza;Eletrônicos;Smartphone X12;Marketplace;11;1702.41;18726.51;0.125;16385.7;9503.71;6881.99;0.419999755884704;Entregue
+VND-00083;2022-12-25;2022;12;Q4;Centro-Oeste;Gabriela Rocha;Móveis;Escrivaninha;Revendedor;15;772.73;11590.95;0.042;11104.13;5774.15;5329.98;0.479999783864202;Pendente
+VND-00084;2024-08-20;2024;8;Q3;Sudeste;Felipe Nunes;Alimentos;Café Premium;Revendedor;11;58.0;638.0;0.016;627.79;345.28;282.51;0.450007168002039;Entregue
+VND-00085;2023-08-14;2023;8;Q3;Norte;Bruno Lima;Móveis;Escrivaninha;Revendedor;2;680.5;1361.0;0.047;1297.03;674.46;622.57;0.479996607634365;Entregue
+VND-00086;2022-01-03;2022;1;Q1;Centro-Oeste;Henrique Dias;Beleza;Shampoo Premium;Revendedor;4;83.53;334.12;0.078;308.06;117.06;191.0;0.62000908913848;Entregue
+VND-00087;2023-02-21;2023;2;Q1;Nordeste;Bruno Lima;Alimentos;Chocolates Finos;Online;5;41.68;208.4;0.066;194.65;107.06;87.59;0.449987156434626;Pendente
+VND-00088;2023-05-06;2023;5;Q2;Sudeste;Bruno Lima;Vestuário;Camisa Social;Revendedor;9;121.22;1090.98;0.061;1024.43;430.26;594.17;0.580000585691555;Pendente
+VND-00089;2022-11-12;2022;11;Q4;Nordeste;Henrique Dias;Móveis;Guarda-Roupa;Loja Física;5;1903.37;9516.85;0.062;8926.81;4641.94;4284.87;0.48000013442652;Entregue
+VND-00090;2022-10-24;2022;10;Q4;Sudeste;Bruno Lima;Móveis;Mesa de Jantar;Marketplace;9;1735.0;15615.0;0.112;13866.12;7210.38;6655.74;0.480000173083747;Entregue
+VND-00091;2024-04-29;2024;4;Q2;Norte;Henrique Dias;Alimentos;Chocolates Finos;Loja Física;1;42.9;42.9;0.042;41.1;22.61;18.49;0.449878345498783;Entregue
+VND-00092;2024-09-18;2024;9;Q3;Norte;Diego Alves;Alimentos;Queijo Importado;Loja Física;9;80.83;727.47;0.057;686.0;377.3;308.7;0.45;Entregue
+VND-00093;2023-04-24;2023;4;Q2;Nordeste;Gabriela Rocha;Móveis;Sofá 3 Lugares;Loja Física;8;2698.18;21585.44;0.106;19297.38;10034.64;9262.74;0.479999875630785;Entregue
+VND-00094;2022-03-17;2022;3;Q1;Nordeste;Bruno Lima;Vestuário;Vestido Casual;Revendedor;6;240.48;1442.88;0.13;1255.31;527.23;728.08;0.580000159323195;Entregue
+VND-00095;2022-10-23;2022;10;Q4;Norte;Gabriela Rocha;Móveis;Mesa de Jantar;Online;13;1463.95;19031.35;0.145;16271.8;8461.34;7810.46;0.479999754175936;Entregue
+VND-00096;2024-12-28;2024;12;Q4;Centro-Oeste;Ana Souza;Móveis;Guarda-Roupa;Online;15;1948.18;29222.7;0.114;25891.31;13463.48;12427.83;0.480000046347597;Entregue
+VND-00097;2023-08-12;2023;8;Q3;Sul;Henrique Dias;Vestuário;Jaqueta Inverno;Loja Física;2;345.38;690.76;0.114;612.01;257.04;354.97;0.580006862632964;Entregue
+VND-00098;2022-03-01;2022;3;Q1;Nordeste;Carla Mendes;Eletrônicos;Fone Bluetooth;Loja Física;5;264.81;1324.05;0.054;1252.55;726.48;526.07;0.419999201628678;Entregue
+VND-00099;2023-01-04;2023;1;Q1;Sudeste;Henrique Dias;Vestuário;Tênis Esportivo;Loja Física;14;256.42;3589.88;0.057;3385.26;1421.81;1963.45;0.579999763681372;Entregue
+VND-00100;2023-06-05;2023;6;Q2;Norte;Carla Mendes;Móveis;Guarda-Roupa;Online;15;1963.4;29451.0;0.121;25887.43;13461.46;12425.97;0.480000139063631;Entregue

@@ -1,0 +1,601 @@
+﻿ID_Cliente;Nome;Cidade;Estado;Segmento;Data_Cadastro;Total_Pedidos;Ticket_Médio
+CLI-0001;Pedro Pereira;Belo Horizonte;MG;Premium;2023-06-20;39;836.65
+CLI-0002;Rafael Carvalho;Porto Alegre;RS;Premium;2023-04-18;4;3009.53
+CLI-0003;Marcelo Gomes;Curitiba;PR;Premium;2022-05-01;7;3419.55
+CLI-0004;Ana Santos;Recife;PE;Premium;2022-08-21;30;986.99
+CLI-0005;Carlos Santos;Fortaleza;CE;Padrão;2023-06-14;32;4803.21
+CLI-0006;Camila Carvalho;Fortaleza;CE;Econômico;2022-01-27;1;3199.94
+CLI-0007;Pedro Lima;Curitiba;PR;Econômico;2023-04-02;14;4896.15
+CLI-0008;Beatriz Ferreira;Goiânia;GO;Econômico;2024-07-07;20;884.83
+CLI-0009;Thiago Costa;Goiânia;GO;Padrão;2023-10-24;40;2132.9
+CLI-0010;Rodrigo Rodrigues;Recife;PE;Econômico;2022-06-18;23;1306.05
+CLI-0011;Rodrigo Oliveira;São Paulo;SP;Premium;2022-12-07;28;3864.21
+CLI-0012;Fernanda Vieira;Curitiba;PR;Premium;2023-04-29;26;1676.28
+CLI-0013;Pedro Lima;Porto Alegre;RS;Econômico;2022-02-02;37;266.64
+CLI-0014;Rafael Ferreira;São Paulo;SP;Econômico;2024-07-17;27;412.36
+CLI-0015;Carlos Oliveira;Curitiba;PR;Econômico;2024-07-13;33;2485.34
+CLI-0016;Juliana Ferreira;Salvador;BA;Premium;2022-04-18;19;946.1
+CLI-0017;Rafael Lima;Rio de Janeiro;RJ;Econômico;2024-10-06;39;786.55
+CLI-0018;Beatriz Almeida;São Paulo;SP;Padrão;2024-06-26;24;4072.21
+CLI-0019;Ana Lima;Manaus;AM;Econômico;2023-02-07;20;4783.31
+CLI-0020;Rafael Lima;Manaus;AM;Premium;2022-02-09;18;1651.77
+CLI-0021;Larissa Oliveira;Manaus;AM;Econômico;2023-12-12;12;2605.85
+CLI-0022;Juliana Rodrigues;Porto Alegre;RS;Econômico;2023-02-10;16;4150.0
+CLI-0023;Marcelo Costa;Rio de Janeiro;RJ;Premium;2023-05-20;2;4676.53
+CLI-0024;Juliana Costa;Curitiba;PR;Premium;2023-03-03;4;969.48
+CLI-0025;Carlos Santos;Fortaleza;CE;Padrão;2023-01-02;10;1522.15
+CLI-0026;João Araújo;Curitiba;PR;Padrão;2024-02-06;13;3595.73
+CLI-0027;João Costa;Belo Horizonte;MG;Premium;2023-04-17;23;300.53
+CLI-0028;João Oliveira;Fortaleza;CE;Premium;2023-05-25;9;1687.14
+CLI-0029;Beatriz Santos;Recife;PE;Padrão;2024-01-19;23;1675.39
+CLI-0030;Rodrigo Lima;São Paulo;SP;Premium;2023-07-01;4;1425.04
+CLI-0031;Juliana Almeida;Curitiba;PR;Econômico;2023-09-18;5;467.19
+CLI-0032;Juliana Gomes;Belo Horizonte;MG;Premium;2024-02-02;6;727.45
+CLI-0033;Rodrigo Gomes;Goiânia;GO;Premium;2022-03-14;32;3871.82
+CLI-0034;Maria Gomes;Manaus;AM;Padrão;2023-05-26;23;4524.82
+CLI-0035;Beatriz Vieira;Porto Alegre;RS;Premium;2023-09-28;40;4808.11
+CLI-0036;Beatriz Gomes;Manaus;AM;Padrão;2024-08-21;8;1719.25
+CLI-0037;Juliana Rodrigues;Salvador;BA;Premium;2022-09-06;26;2206.63
+CLI-0038;Lucas Araújo;Belo Horizonte;MG;Premium;2022-09-27;18;2095.13
+CLI-0039;Maria Vieira;Fortaleza;CE;Premium;2024-04-20;9;4239.25
+CLI-0040;Thiago Pereira;Goiânia;GO;Premium;2024-06-04;16;1634.44
+CLI-0041;Fernanda Almeida;São Paulo;SP;Premium;2022-05-30;21;284.35
+CLI-0042;Juliana Lima;São Paulo;SP;Econômico;2024-02-29;33;4058.68
+CLI-0043;Camila Rodrigues;Fortaleza;CE;Econômico;2024-08-01;5;1585.87
+CLI-0044;Beatriz Almeida;Porto Alegre;RS;Econômico;2022-02-19;33;286.8
+CLI-0045;Maria Silva;São Paulo;SP;Padrão;2022-06-11;19;3845.23
+CLI-0046;Larissa Silva;Rio de Janeiro;RJ;Econômico;2023-03-20;39;812.09
+CLI-0047;Lucas Nascimento;Goiânia;GO;Premium;2022-07-21;35;3001.97
+CLI-0048;Rodrigo Almeida;Curitiba;PR;Econômico;2022-08-23;25;4696.29
+CLI-0049;Maria Almeida;Goiânia;GO;Econômico;2024-11-06;31;3561.99
+CLI-0050;Maria Nascimento;Salvador;BA;Premium;2023-12-25;27;4660.34
+CLI-0051;Thiago Silva;Salvador;BA;Econômico;2024-02-21;22;4966.84
+CLI-0052;Rodrigo Oliveira;Goiânia;GO;Premium;2024-02-18;31;946.4
+CLI-0053;Fernanda Oliveira;São Paulo;SP;Econômico;2024-09-26;11;4134.68
+CLI-0054;Maria Araújo;Goiânia;GO;Premium;2023-08-18;29;839.34
+CLI-0055;Ana Pereira;Recife;PE;Econômico;2024-05-10;19;167.29
+CLI-0056;Beatriz Vieira;Porto Alegre;RS;Padrão;2022-02-28;35;1171.97
+CLI-0057;Fernanda Nascimento;Manaus;AM;Padrão;2024-01-31;7;3236.39
+CLI-0058;Camila Nascimento;Curitiba;PR;Premium;2023-02-23;27;2350.34
+CLI-0059;Rafael Rodrigues;Curitiba;PR;Padrão;2023-06-24;37;253.77
+CLI-0060;Lucas Nascimento;Fortaleza;CE;Econômico;2024-05-05;29;1913.07
+CLI-0061;Rodrigo Rodrigues;Salvador;BA;Padrão;2022-07-26;6;2170.93
+CLI-0062;João Pereira;Fortaleza;CE;Padrão;2024-01-19;26;1099.56
+CLI-0063;Marcelo Carvalho;Porto Alegre;RS;Econômico;2022-07-03;33;320.17
+CLI-0064;Ana Lima;Recife;PE;Premium;2022-10-28;2;3621.22
+CLI-0065;Lucas Gomes;Salvador;BA;Premium;2023-12-10;28;1709.88
+CLI-0066;Rodrigo Rodrigues;Porto Alegre;RS;Premium;2024-09-03;31;3989.44
+CLI-0067;Maria Almeida;Porto Alegre;RS;Econômico;2024-10-11;36;2446.67
+CLI-0068;Larissa Almeida;Belo Horizonte;MG;Padrão;2022-08-09;24;1473.2
+CLI-0069;João Gomes;Belo Horizonte;MG;Premium;2022-07-31;10;1372.1
+CLI-0070;Juliana Gomes;Belo Horizonte;MG;Econômico;2023-08-18;22;1660.55
+CLI-0071;Juliana Ferreira;São Paulo;SP;Econômico;2022-03-06;33;4968.16
+CLI-0072;Thiago Lima;São Paulo;SP;Padrão;2023-03-04;37;4245.45
+CLI-0073;Ana Nascimento;Recife;PE;Padrão;2024-11-10;31;744.71
+CLI-0074;Rafael Costa;Rio de Janeiro;RJ;Padrão;2022-01-28;13;4007.8
+CLI-0075;Lucas Costa;Porto Alegre;RS;Premium;2022-05-02;2;227.15
+CLI-0076;Ana Pereira;Curitiba;PR;Premium;2022-11-19;40;1591.49
+CLI-0077;Fernanda Vieira;São Paulo;SP;Econômico;2023-07-24;7;2233.4
+CLI-0078;Thiago Almeida;Manaus;AM;Padrão;2023-10-06;18;2113.5
+CLI-0079;Lucas Lima;Belo Horizonte;MG;Econômico;2024-10-13;13;1847.39
+CLI-0080;Rodrigo Almeida;Manaus;AM;Padrão;2022-11-18;10;1737.17
+CLI-0081;Thiago Almeida;Salvador;BA;Premium;2022-04-25;1;896.39
+CLI-0082;Pedro Costa;São Paulo;SP;Econômico;2023-08-11;3;1911.62
+CLI-0083;Fernanda Gomes;Recife;PE;Econômico;2022-07-29;12;1848.37
+CLI-0084;Lucas Lima;Salvador;BA;Econômico;2022-03-31;17;583.26
+CLI-0085;Rodrigo Gomes;Belo Horizonte;MG;Padrão;2024-11-04;1;1737.13
+CLI-0086;Rafael Silva;Fortaleza;CE;Premium;2022-08-24;12;1150.15
+CLI-0087;Lucas Nascimento;Recife;PE;Econômico;2023-08-25;18;2470.7
+CLI-0088;Camila Nascimento;São Paulo;SP;Padrão;2024-02-21;13;2128.12
+CLI-0089;Fernanda Almeida;Belo Horizonte;MG;Padrão;2023-10-24;36;4066.74
+CLI-0090;Carlos Oliveira;Curitiba;PR;Padrão;2022-01-31;10;867.55
+CLI-0091;Pedro Ferreira;Goiânia;GO;Premium;2024-03-15;13;3643.0
+CLI-0092;Ana Rodrigues;Recife;PE;Premium;2022-06-07;20;1885.6
+CLI-0093;Larissa Gomes;Rio de Janeiro;RJ;Premium;2022-08-14;35;235.31
+CLI-0094;Thiago Almeida;Fortaleza;CE;Econômico;2022-09-07;17;3956.89
+CLI-0095;Thiago Lima;Porto Alegre;RS;Premium;2024-04-17;1;1965.52
+CLI-0096;Fernanda Carvalho;Curitiba;PR;Econômico;2022-07-09;33;2873.88
+CLI-0097;Larissa Santos;Rio de Janeiro;RJ;Padrão;2022-09-14;21;4247.23
+CLI-0098;Pedro Ferreira;Manaus;AM;Econômico;2024-09-22;27;2836.18
+CLI-0099;Carlos Santos;Porto Alegre;RS;Padrão;2022-04-03;15;1368.22
+CLI-0100;Ana Carvalho;Rio de Janeiro;RJ;Econômico;2022-05-23;34;589.93
+CLI-0101;Carlos Silva;Rio de Janeiro;RJ;Premium;2023-12-02;6;3511.25
+CLI-0102;Juliana Araújo;Belo Horizonte;MG;Econômico;2022-08-26;29;4379.46
+CLI-0103;Carlos Ferreira;São Paulo;SP;Padrão;2024-07-11;3;2551.45
+CLI-0104;Camila Vieira;São Paulo;SP;Padrão;2023-07-17;4;4048.83
+CLI-0105;Maria Ferreira;Recife;PE;Premium;2024-10-27;30;2670.71
+CLI-0106;Ana Santos;São Paulo;SP;Padrão;2023-06-22;23;3833.6
+CLI-0107;Juliana Rodrigues;Curitiba;PR;Econômico;2022-09-14;10;2332.01
+CLI-0108;Camila Ferreira;Recife;PE;Premium;2022-04-22;30;3650.17
+CLI-0109;Ana Gomes;Porto Alegre;RS;Econômico;2024-07-10;17;1350.69
+CLI-0110;Camila Nascimento;Manaus;AM;Premium;2024-07-10;1;3053.0
+CLI-0111;Camila Santos;Porto Alegre;RS;Econômico;2023-04-14;26;3759.15
+CLI-0112;Maria Oliveira;Curitiba;PR;Padrão;2024-04-08;20;428.38
+CLI-0113;Ana Oliveira;São Paulo;SP;Premium;2024-05-23;29;1804.92
+CLI-0114;João Pereira;Goiânia;GO;Econômico;2024-09-28;26;1267.86
+CLI-0115;Maria Silva;São Paulo;SP;Padrão;2024-12-29;39;2077.75
+CLI-0116;Rafael Carvalho;Curitiba;PR;Padrão;2022-07-13;11;1664.83
+CLI-0117;Rafael Ferreira;São Paulo;SP;Padrão;2022-02-13;4;1462.02
+CLI-0118;Rafael Rodrigues;Goiânia;GO;Econômico;2023-09-08;36;1942.57
+CLI-0119;Larissa Nascimento;Manaus;AM;Premium;2023-07-11;33;1321.44
+CLI-0120;João Araújo;Recife;PE;Premium;2023-05-20;26;4055.97
+CLI-0121;Marcelo Rodrigues;São Paulo;SP;Padrão;2024-08-17;1;3787.19
+CLI-0122;Rodrigo Gomes;Recife;PE;Padrão;2023-03-31;31;1620.94
+CLI-0123;Ana Carvalho;Manaus;AM;Premium;2023-02-18;3;2265.22
+CLI-0124;Marcelo Santos;Rio de Janeiro;RJ;Padrão;2024-06-24;7;2902.77
+CLI-0125;João Ferreira;São Paulo;SP;Padrão;2022-02-18;11;4615.82
+CLI-0126;Carlos Santos;Curitiba;PR;Padrão;2024-01-01;22;4258.1
+CLI-0127;Carlos Costa;Recife;PE;Econômico;2023-04-21;15;3354.67
+CLI-0128;Thiago Lima;Curitiba;PR;Premium;2024-04-13;22;1920.21
+CLI-0129;Camila Santos;Porto Alegre;RS;Econômico;2024-09-10;2;4107.23
+CLI-0130;Juliana Costa;Porto Alegre;RS;Econômico;2022-01-03;4;1610.69
+CLI-0131;Camila Oliveira;Manaus;AM;Premium;2024-02-27;26;4901.34
+CLI-0132;Beatriz Santos;Fortaleza;CE;Padrão;2024-09-05;30;1237.96
+CLI-0133;Camila Gomes;Porto Alegre;RS;Premium;2023-09-14;28;3496.8
+CLI-0134;Lucas Rodrigues;Curitiba;PR;Econômico;2022-11-08;13;3980.48
+CLI-0135;Larissa Nascimento;Salvador;BA;Premium;2024-02-10;22;4851.16
+CLI-0136;Pedro Gomes;Manaus;AM;Econômico;2024-09-08;25;2802.77
+CLI-0137;Carlos Vieira;Rio de Janeiro;RJ;Premium;2022-06-10;16;1425.52
+CLI-0138;Marcelo Carvalho;Rio de Janeiro;RJ;Premium;2024-09-13;39;2001.34
+CLI-0139;João Pereira;Fortaleza;CE;Padrão;2024-01-16;36;3234.13
+CLI-0140;Larissa Pereira;Porto Alegre;RS;Econômico;2024-08-05;39;696.45
+CLI-0141;Rafael Oliveira;Rio de Janeiro;RJ;Econômico;2023-11-26;2;2014.55
+CLI-0142;Camila Costa;Goiânia;GO;Padrão;2024-01-30;17;2014.27
+CLI-0143;Larissa Lima;Porto Alegre;RS;Premium;2024-12-31;39;2283.47
+CLI-0144;Thiago Araújo;Curitiba;PR;Premium;2023-11-03;24;2471.11
+CLI-0145;Beatriz Costa;Manaus;AM;Premium;2023-05-29;9;2419.15
+CLI-0146;Rafael Almeida;Goiânia;GO;Econômico;2022-11-06;24;1665.0
+CLI-0147;Juliana Silva;São Paulo;SP;Premium;2022-12-22;25;4925.77
+CLI-0148;Thiago Santos;São Paulo;SP;Padrão;2022-08-16;4;489.17
+CLI-0149;Maria Almeida;Fortaleza;CE;Econômico;2022-05-25;38;2341.59
+CLI-0150;Rodrigo Ferreira;Curitiba;PR;Premium;2024-11-19;6;765.43
+CLI-0151;João Silva;Porto Alegre;RS;Premium;2024-11-14;9;3303.33
+CLI-0152;Larissa Ferreira;Goiânia;GO;Econômico;2024-02-08;37;3152.51
+CLI-0153;Larissa Almeida;Goiânia;GO;Premium;2024-09-06;9;1047.48
+CLI-0154;João Ferreira;Rio de Janeiro;RJ;Econômico;2023-06-22;34;694.36
+CLI-0155;Thiago Costa;Recife;PE;Econômico;2024-04-25;24;4849.58
+CLI-0156;Maria Lima;Fortaleza;CE;Econômico;2022-10-11;9;4940.1
+CLI-0157;Pedro Oliveira;Goiânia;GO;Premium;2022-02-12;27;1129.55
+CLI-0158;Beatriz Almeida;Goiânia;GO;Premium;2023-08-12;8;2445.01
+CLI-0159;Larissa Silva;Porto Alegre;RS;Premium;2022-11-15;13;2114.22
+CLI-0160;Camila Costa;Fortaleza;CE;Econômico;2024-05-17;33;1011.23
+CLI-0161;Camila Santos;Manaus;AM;Premium;2024-04-27;30;2217.96
+CLI-0162;Pedro Costa;Porto Alegre;RS;Econômico;2022-05-19;37;3692.13
+CLI-0163;Juliana Oliveira;Belo Horizonte;MG;Econômico;2024-12-28;10;4436.72
+CLI-0164;Rodrigo Rodrigues;Fortaleza;CE;Econômico;2022-07-28;12;1952.23
+CLI-0165;Fernanda Lima;Porto Alegre;RS;Econômico;2023-06-17;39;4240.92
+CLI-0166;Larissa Gomes;Salvador;BA;Econômico;2022-12-05;12;1620.06
+CLI-0167;Rodrigo Ferreira;Fortaleza;CE;Padrão;2023-06-13;20;3444.27
+CLI-0168;Rodrigo Vieira;Porto Alegre;RS;Premium;2024-05-29;35;2220.23
+CLI-0169;Maria Ferreira;Rio de Janeiro;RJ;Padrão;2023-04-01;15;307.95
+CLI-0170;Camila Vieira;São Paulo;SP;Padrão;2024-11-30;2;1656.73
+CLI-0171;Maria Gomes;Recife;PE;Econômico;2023-11-15;21;3536.2
+CLI-0172;Rodrigo Araújo;São Paulo;SP;Econômico;2024-03-06;11;3917.59
+CLI-0173;Marcelo Lima;Recife;PE;Econômico;2022-04-17;11;4617.69
+CLI-0174;Beatriz Oliveira;Rio de Janeiro;RJ;Premium;2022-02-02;18;4776.29
+CLI-0175;Pedro Santos;Recife;PE;Padrão;2024-04-24;12;4440.72
+CLI-0176;Beatriz Silva;Fortaleza;CE;Econômico;2023-03-20;10;1016.09
+CLI-0177;Maria Nascimento;Curitiba;PR;Padrão;2022-01-14;12;3142.64
+CLI-0178;Camila Lima;Manaus;AM;Econômico;2024-09-29;30;3866.24
+CLI-0179;Marcelo Carvalho;Recife;PE;Padrão;2023-02-05;39;4166.45
+CLI-0180;Juliana Carvalho;Manaus;AM;Econômico;2023-12-11;5;2856.48
+CLI-0181;Carlos Vieira;Belo Horizonte;MG;Premium;2024-07-13;18;3436.37
+CLI-0182;Fernanda Araújo;Rio de Janeiro;RJ;Padrão;2023-03-20;26;4818.82
+CLI-0183;Ana Vieira;São Paulo;SP;Padrão;2024-12-16;28;810.21
+CLI-0184;Thiago Rodrigues;Fortaleza;CE;Padrão;2024-06-01;7;588.78
+CLI-0185;Carlos Vieira;Goiânia;GO;Premium;2022-11-25;14;1103.33
+CLI-0186;João Pereira;Goiânia;GO;Econômico;2024-03-25;16;237.8
+CLI-0187;Camila Oliveira;Belo Horizonte;MG;Padrão;2023-06-02;36;765.43
+CLI-0188;Marcelo Gomes;Porto Alegre;RS;Padrão;2022-12-17;8;273.43
+CLI-0189;Lucas Costa;Goiânia;GO;Premium;2022-06-20;11;3212.45
+CLI-0190;Juliana Carvalho;Fortaleza;CE;Premium;2023-08-19;35;1796.76
+CLI-0191;Fernanda Oliveira;São Paulo;SP;Premium;2022-01-14;5;3116.54
+CLI-0192;Carlos Oliveira;Goiânia;GO;Premium;2024-08-20;17;4161.65
+CLI-0193;Thiago Vieira;Fortaleza;CE;Padrão;2022-11-25;32;3096.31
+CLI-0194;Thiago Almeida;Porto Alegre;RS;Econômico;2023-10-31;5;852.49
+CLI-0195;Juliana Pereira;Salvador;BA;Padrão;2022-07-07;2;170.14
+CLI-0196;João Nascimento;Rio de Janeiro;RJ;Econômico;2022-08-24;40;1573.59
+CLI-0197;Beatriz Oliveira;Curitiba;PR;Premium;2022-09-21;28;4395.4
+CLI-0198;João Costa;São Paulo;SP;Premium;2024-05-06;1;4980.48
+CLI-0199;Ana Pereira;Belo Horizonte;MG;Econômico;2022-03-20;10;3749.45
+CLI-0200;João Vieira;Porto Alegre;RS;Econômico;2023-01-25;18;3439.39
+CLI-0201;Ana Rodrigues;Curitiba;PR;Padrão;2023-11-09;14;2905.63
+CLI-0202;Pedro Gomes;Manaus;AM;Padrão;2022-03-03;39;630.34
+CLI-0203;Ana Santos;Fortaleza;CE;Econômico;2024-05-14;28;3092.1
+CLI-0204;Beatriz Araújo;Recife;PE;Premium;2023-09-18;1;1303.75
+CLI-0205;Juliana Ferreira;Curitiba;PR;Padrão;2023-06-02;5;4718.91
+CLI-0206;Rafael Almeida;Rio de Janeiro;RJ;Premium;2023-06-25;38;2364.39
+CLI-0207;Carlos Ferreira;Goiânia;GO;Padrão;2023-11-10;36;215.15
+CLI-0208;Fernanda Almeida;Rio de Janeiro;RJ;Padrão;2023-09-06;10;2934.13
+CLI-0209;Lucas Silva;Belo Horizonte;MG;Padrão;2022-09-23;19;551.79
+CLI-0210;Juliana Gomes;São Paulo;SP;Padrão;2022-02-07;40;4824.47
+CLI-0211;Camila Vieira;Manaus;AM;Premium;2024-05-01;7;3675.57
+CLI-0212;Juliana Gomes;Rio de Janeiro;RJ;Econômico;2022-11-29;22;1912.59
+CLI-0213;Beatriz Oliveira;Porto Alegre;RS;Padrão;2022-09-30;36;4682.41
+CLI-0214;Larissa Nascimento;Goiânia;GO;Econômico;2023-01-31;30;3267.77
+CLI-0215;Ana Pereira;Curitiba;PR;Econômico;2023-07-10;4;4776.86
+CLI-0216;Fernanda Almeida;Curitiba;PR;Econômico;2022-12-24;22;3751.07
+CLI-0217;Camila Pereira;Porto Alegre;RS;Padrão;2022-04-06;7;507.74
+CLI-0218;Larissa Pereira;Belo Horizonte;MG;Premium;2023-10-17;33;3454.25
+CLI-0219;Fernanda Vieira;Recife;PE;Premium;2022-12-29;26;278.65
+CLI-0220;Carlos Nascimento;Recife;PE;Padrão;2022-02-08;16;177.77
+CLI-0221;Marcelo Carvalho;Goiânia;GO;Econômico;2024-11-05;1;3556.96
+CLI-0222;Maria Gomes;Recife;PE;Padrão;2024-06-03;5;4012.42
+CLI-0223;Pedro Lima;Belo Horizonte;MG;Padrão;2023-03-27;24;4789.81
+CLI-0224;Thiago Vieira;Curitiba;PR;Premium;2024-01-17;39;4406.07
+CLI-0225;Beatriz Carvalho;Salvador;BA;Padrão;2023-12-24;37;2081.28
+CLI-0226;Fernanda Lima;Recife;PE;Padrão;2022-06-30;7;3428.65
+CLI-0227;Rodrigo Nascimento;Manaus;AM;Padrão;2023-04-03;2;3566.51
+CLI-0228;Rafael Oliveira;Recife;PE;Econômico;2024-06-24;17;1679.68
+CLI-0229;Maria Almeida;Rio de Janeiro;RJ;Padrão;2022-01-02;36;2884.34
+CLI-0230;Camila Rodrigues;Goiânia;GO;Econômico;2022-03-21;7;4400.72
+CLI-0231;Pedro Santos;Belo Horizonte;MG;Econômico;2023-02-25;13;1944.27
+CLI-0232;Rodrigo Almeida;Manaus;AM;Premium;2022-05-05;1;4583.83
+CLI-0233;Fernanda Almeida;Curitiba;PR;Econômico;2022-05-25;9;3384.37
+CLI-0234;Marcelo Nascimento;Manaus;AM;Padrão;2023-04-11;1;3459.35
+CLI-0235;Rafael Santos;Curitiba;PR;Econômico;2022-08-28;16;3674.17
+CLI-0236;Rodrigo Araújo;Manaus;AM;Econômico;2024-09-08;37;4428.58
+CLI-0237;Fernanda Santos;Belo Horizonte;MG;Premium;2023-11-04;26;4680.4
+CLI-0238;Lucas Araújo;Porto Alegre;RS;Econômico;2024-09-21;35;4419.09
+CLI-0239;Marcelo Gomes;Salvador;BA;Econômico;2022-10-26;33;1878.24
+CLI-0240;Larissa Lima;Goiânia;GO;Premium;2024-11-14;26;2601.65
+CLI-0241;Rodrigo Carvalho;Goiânia;GO;Padrão;2023-06-13;16;4848.24
+CLI-0242;Beatriz Costa;Fortaleza;CE;Premium;2022-04-15;37;122.08
+CLI-0243;Ana Rodrigues;Recife;PE;Econômico;2023-08-06;40;2945.37
+CLI-0244;Rodrigo Ferreira;Curitiba;PR;Econômico;2023-10-03;30;3445.24
+CLI-0245;Larissa Carvalho;Curitiba;PR;Premium;2023-09-27;18;622.77
+CLI-0246;Rafael Lima;Recife;PE;Econômico;2022-12-15;28;746.35
+CLI-0247;Carlos Araújo;Salvador;BA;Padrão;2023-04-21;20;3861.47
+CLI-0248;Maria Vieira;Manaus;AM;Econômico;2024-03-11;2;4688.48
+CLI-0249;Ana Pereira;Curitiba;PR;Econômico;2024-11-21;14;4610.84
+CLI-0250;Thiago Araújo;Salvador;BA;Econômico;2022-04-21;30;4076.88
+CLI-0251;Rafael Pereira;Manaus;AM;Premium;2024-11-02;21;2296.16
+CLI-0252;Juliana Almeida;Recife;PE;Padrão;2022-05-28;25;2426.6
+CLI-0253;Carlos Araújo;Porto Alegre;RS;Econômico;2022-03-21;32;4217.76
+CLI-0254;João Rodrigues;Porto Alegre;RS;Padrão;2022-07-20;30;2371.2
+CLI-0255;Marcelo Araújo;Rio de Janeiro;RJ;Econômico;2023-01-31;21;3315.34
+CLI-0256;Fernanda Nascimento;São Paulo;SP;Premium;2024-12-30;14;1988.49
+CLI-0257;Ana Costa;Belo Horizonte;MG;Premium;2024-10-23;21;1470.0
+CLI-0258;Rafael Lima;Porto Alegre;RS;Padrão;2023-11-28;9;4773.36
+CLI-0259;Beatriz Oliveira;São Paulo;SP;Premium;2023-04-05;6;3843.7
+CLI-0260;Juliana Costa;Fortaleza;CE;Econômico;2022-11-21;30;1250.43
+CLI-0261;Rodrigo Santos;Salvador;BA;Padrão;2023-08-07;40;2296.41
+CLI-0262;Beatriz Silva;Manaus;AM;Premium;2023-01-21;9;4845.41
+CLI-0263;Fernanda Rodrigues;Curitiba;PR;Econômico;2022-06-03;19;2165.49
+CLI-0264;Marcelo Silva;Salvador;BA;Padrão;2023-05-13;23;1624.7
+CLI-0265;João Oliveira;Recife;PE;Padrão;2022-03-17;3;2102.48
+CLI-0266;Maria Costa;Curitiba;PR;Padrão;2024-05-06;20;1386.11
+CLI-0267;Carlos Carvalho;Manaus;AM;Premium;2024-08-20;26;626.89
+CLI-0268;Lucas Lima;Rio de Janeiro;RJ;Econômico;2023-05-26;39;538.76
+CLI-0269;Fernanda Araújo;Belo Horizonte;MG;Padrão;2022-01-30;27;1678.64
+CLI-0270;Maria Oliveira;Fortaleza;CE;Econômico;2022-12-12;10;4539.25
+CLI-0271;Thiago Vieira;Porto Alegre;RS;Padrão;2022-02-24;24;1980.12
+CLI-0272;Lucas Vieira;Fortaleza;CE;Padrão;2023-12-24;16;3382.29
+CLI-0273;Juliana Pereira;Salvador;BA;Premium;2023-11-28;38;1718.2
+CLI-0274;Ana Vieira;Fortaleza;CE;Padrão;2023-11-13;28;112.56
+CLI-0275;Rodrigo Nascimento;Recife;PE;Premium;2023-10-01;14;1221.87
+CLI-0276;Rafael Gomes;Recife;PE;Premium;2023-01-28;37;3638.02
+CLI-0277;Thiago Gomes;Curitiba;PR;Premium;2024-04-21;3;223.82
+CLI-0278;Rafael Lima;Porto Alegre;RS;Padrão;2024-02-12;10;4744.36
+CLI-0279;João Oliveira;Manaus;AM;Padrão;2023-01-12;10;385.38
+CLI-0280;Juliana Araújo;Salvador;BA;Econômico;2022-02-17;26;592.58
+CLI-0281;Rafael Araújo;São Paulo;SP;Premium;2024-08-04;2;4595.02
+CLI-0282;Thiago Santos;Salvador;BA;Econômico;2022-12-20;3;354.62
+CLI-0283;Carlos Ferreira;Porto Alegre;RS;Padrão;2022-03-09;30;2227.2
+CLI-0284;Marcelo Santos;Belo Horizonte;MG;Econômico;2024-02-23;12;3662.33
+CLI-0285;Thiago Costa;Porto Alegre;RS;Premium;2023-04-19;38;3694.68
+CLI-0286;Pedro Lima;Manaus;AM;Premium;2024-02-13;40;801.79
+CLI-0287;Ana Silva;Salvador;BA;Padrão;2024-09-10;6;865.31
+CLI-0288;Larissa Silva;São Paulo;SP;Econômico;2022-09-15;10;2593.67
+CLI-0289;Fernanda Vieira;Recife;PE;Premium;2023-07-27;12;2313.83
+CLI-0290;Carlos Lima;Salvador;BA;Econômico;2023-10-26;32;3697.86
+CLI-0291;Rodrigo Oliveira;Recife;PE;Premium;2022-10-25;4;2049.13
+CLI-0292;Beatriz Araújo;Belo Horizonte;MG;Premium;2024-11-27;2;4803.13
+CLI-0293;Camila Nascimento;Fortaleza;CE;Econômico;2022-04-19;19;1352.74
+CLI-0294;Juliana Nascimento;Fortaleza;CE;Padrão;2023-10-26;9;3724.01
+CLI-0295;Rafael Silva;Recife;PE;Padrão;2024-05-03;2;3261.92
+CLI-0296;Pedro Vieira;Recife;PE;Padrão;2023-06-11;22;950.27
+CLI-0297;Fernanda Nascimento;Porto Alegre;RS;Econômico;2024-08-11;17;2388.83
+CLI-0298;Carlos Silva;Goiânia;GO;Econômico;2024-06-23;1;4067.48
+CLI-0299;Carlos Almeida;Manaus;AM;Premium;2023-10-14;31;2383.07
+CLI-0300;Maria Oliveira;Fortaleza;CE;Premium;2024-11-18;33;3064.79
+CLI-0301;Carlos Oliveira;Goiânia;GO;Econômico;2024-03-27;34;381.58
+CLI-0302;Lucas Carvalho;Belo Horizonte;MG;Premium;2022-10-28;26;3460.13
+CLI-0303;Carlos Santos;Fortaleza;CE;Premium;2024-06-15;2;86.44
+CLI-0304;Maria Araújo;Recife;PE;Padrão;2024-11-22;28;243.71
+CLI-0305;Lucas Nascimento;Fortaleza;CE;Econômico;2022-01-22;13;445.41
+CLI-0306;Rafael Ferreira;Fortaleza;CE;Econômico;2024-08-24;37;4203.52
+CLI-0307;Pedro Rodrigues;Rio de Janeiro;RJ;Premium;2024-12-08;13;4496.03
+CLI-0308;Pedro Nascimento;Curitiba;PR;Econômico;2024-01-10;16;4916.27
+CLI-0309;Maria Gomes;Curitiba;PR;Econômico;2024-03-27;2;496.92
+CLI-0310;Camila Nascimento;Rio de Janeiro;RJ;Padrão;2023-06-20;36;177.03
+CLI-0311;Marcelo Vieira;São Paulo;SP;Econômico;2022-08-31;31;85.78
+CLI-0312;Fernanda Gomes;Fortaleza;CE;Padrão;2022-07-30;24;919.11
+CLI-0313;Thiago Santos;Recife;PE;Premium;2022-04-23;31;4148.89
+CLI-0314;Ana Costa;Curitiba;PR;Econômico;2024-05-19;36;2928.59
+CLI-0315;Camila Almeida;Recife;PE;Padrão;2024-07-16;10;3268.73
+CLI-0316;Maria Araújo;Fortaleza;CE;Premium;2022-04-20;21;4874.27
+CLI-0317;Marcelo Gomes;São Paulo;SP;Premium;2022-01-02;4;3407.33
+CLI-0318;Fernanda Nascimento;Rio de Janeiro;RJ;Premium;2024-01-12;2;3654.44
+CLI-0319;João Oliveira;Salvador;BA;Premium;2023-12-14;19;2861.5
+CLI-0320;Beatriz Araújo;Porto Alegre;RS;Econômico;2022-12-26;3;482.99
+CLI-0321;Camila Rodrigues;Belo Horizonte;MG;Padrão;2024-01-17;40;3969.53
+CLI-0322;Thiago Rodrigues;Curitiba;PR;Padrão;2023-11-15;15;4351.33
+CLI-0323;Camila Gomes;Salvador;BA;Premium;2024-07-13;20;1331.67
+CLI-0324;Pedro Almeida;Salvador;BA;Premium;2023-06-13;11;356.29
+CLI-0325;Carlos Santos;Fortaleza;CE;Premium;2023-12-17;14;2248.78
+CLI-0326;Maria Costa;Salvador;BA;Econômico;2023-05-04;30;4692.17
+CLI-0327;Larissa Rodrigues;Porto Alegre;RS;Econômico;2024-05-17;26;3728.47
+CLI-0328;Fernanda Almeida;Manaus;AM;Padrão;2024-12-28;8;3738.23
+CLI-0329;Larissa Nascimento;São Paulo;SP;Premium;2023-10-18;22;2522.31
+CLI-0330;Carlos Lima;Recife;PE;Econômico;2022-04-06;24;2643.15
+CLI-0331;Lucas Nascimento;Fortaleza;CE;Econômico;2022-06-11;18;1422.52
+CLI-0332;Lucas Silva;São Paulo;SP;Premium;2023-03-10;22;2556.31
+CLI-0333;Beatriz Silva;Curitiba;PR;Padrão;2023-12-30;29;1337.02
+CLI-0334;Camila Lima;São Paulo;SP;Padrão;2024-06-13;14;978.67
+CLI-0335;Juliana Oliveira;Porto Alegre;RS;Premium;2024-06-22;38;617.66
+CLI-0336;Beatriz Silva;Rio de Janeiro;RJ;Premium;2024-11-27;24;4019.35
+CLI-0337;Carlos Almeida;Goiânia;GO;Econômico;2024-05-18;33;3079.67
+CLI-0338;Camila Costa;Salvador;BA;Econômico;2022-12-06;5;1274.39
+CLI-0339;Maria Nascimento;Fortaleza;CE;Padrão;2023-03-06;4;4108.17
+CLI-0340;Thiago Ferreira;Porto Alegre;RS;Premium;2024-12-25;1;4397.72
+CLI-0341;Pedro Araújo;Belo Horizonte;MG;Econômico;2024-05-07;17;841.93
+CLI-0342;Thiago Oliveira;Recife;PE;Padrão;2022-01-18;22;4269.69
+CLI-0343;Larissa Oliveira;Goiânia;GO;Econômico;2024-11-24;31;4613.23
+CLI-0344;Beatriz Lima;Rio de Janeiro;RJ;Padrão;2022-10-16;5;4281.02
+CLI-0345;Thiago Ferreira;Recife;PE;Premium;2023-07-28;29;1580.83
+CLI-0346;Pedro Lima;Curitiba;PR;Padrão;2023-05-23;30;4795.38
+CLI-0347;Marcelo Ferreira;Goiânia;GO;Padrão;2024-08-29;12;476.57
+CLI-0348;Fernanda Oliveira;Rio de Janeiro;RJ;Padrão;2024-10-19;22;2713.85
+CLI-0349;Rodrigo Oliveira;Salvador;BA;Padrão;2023-01-06;28;2274.39
+CLI-0350;Marcelo Nascimento;Manaus;AM;Econômico;2024-11-27;40;2318.58
+CLI-0351;Fernanda Rodrigues;Goiânia;GO;Econômico;2023-11-09;19;1451.6
+CLI-0352;Marcelo Rodrigues;Curitiba;PR;Premium;2023-08-27;5;1239.15
+CLI-0353;Marcelo Lima;Rio de Janeiro;RJ;Premium;2022-10-06;38;4956.33
+CLI-0354;Marcelo Silva;Fortaleza;CE;Econômico;2023-11-04;39;2220.02
+CLI-0355;Juliana Araújo;Recife;PE;Padrão;2022-05-12;38;1107.27
+CLI-0356;Lucas Lima;Porto Alegre;RS;Padrão;2022-02-25;8;833.7
+CLI-0357;Carlos Carvalho;Goiânia;GO;Padrão;2023-08-27;31;3051.89
+CLI-0358;Rafael Santos;Salvador;BA;Padrão;2022-05-24;24;2095.18
+CLI-0359;Beatriz Oliveira;Belo Horizonte;MG;Padrão;2023-05-07;4;4833.15
+CLI-0360;Thiago Almeida;São Paulo;SP;Premium;2023-11-18;40;1321.43
+CLI-0361;Ana Santos;Salvador;BA;Premium;2024-02-15;3;726.09
+CLI-0362;Thiago Ferreira;Recife;PE;Padrão;2023-05-10;16;340.06
+CLI-0363;Rodrigo Araújo;Belo Horizonte;MG;Econômico;2024-10-04;5;2721.53
+CLI-0364;Carlos Ferreira;Belo Horizonte;MG;Premium;2024-07-24;23;2138.38
+CLI-0365;Pedro Araújo;Rio de Janeiro;RJ;Premium;2022-06-06;14;2754.54
+CLI-0366;Lucas Gomes;Recife;PE;Econômico;2023-01-16;36;4528.07
+CLI-0367;Marcelo Almeida;São Paulo;SP;Padrão;2024-05-02;5;1649.23
+CLI-0368;Camila Gomes;Salvador;BA;Padrão;2024-11-11;22;2606.91
+CLI-0369;Juliana Almeida;Porto Alegre;RS;Premium;2023-10-30;19;473.13
+CLI-0370;Thiago Gomes;Belo Horizonte;MG;Premium;2024-12-05;12;1745.86
+CLI-0371;Marcelo Araújo;Belo Horizonte;MG;Econômico;2024-12-07;35;1955.63
+CLI-0372;Marcelo Pereira;São Paulo;SP;Econômico;2023-07-13;25;2979.51
+CLI-0373;Lucas Carvalho;Manaus;AM;Premium;2023-09-28;12;2721.34
+CLI-0374;Carlos Rodrigues;Goiânia;GO;Premium;2022-03-15;22;838.25
+CLI-0375;Thiago Costa;Rio de Janeiro;RJ;Padrão;2022-12-10;40;2738.74
+CLI-0376;Rodrigo Vieira;Rio de Janeiro;RJ;Premium;2022-12-10;14;3749.3
+CLI-0377;Larissa Almeida;Porto Alegre;RS;Padrão;2024-02-21;34;2227.48
+CLI-0378;Rodrigo Rodrigues;Belo Horizonte;MG;Padrão;2024-09-11;35;1994.86
+CLI-0379;Beatriz Araújo;Goiânia;GO;Econômico;2023-11-24;12;2398.3
+CLI-0380;Beatriz Almeida;Recife;PE;Econômico;2022-03-01;16;815.75
+CLI-0381;Fernanda Nascimento;Recife;PE;Premium;2023-04-09;18;2233.15
+CLI-0382;Rafael Oliveira;São Paulo;SP;Econômico;2023-04-12;15;1388.52
+CLI-0383;Larissa Gomes;Salvador;BA;Padrão;2024-01-25;31;1274.17
+CLI-0384;Ana Araújo;Belo Horizonte;MG;Econômico;2022-09-22;29;2538.55
+CLI-0385;João Ferreira;São Paulo;SP;Padrão;2023-11-09;14;1751.11
+CLI-0386;Fernanda Costa;Manaus;AM;Premium;2022-05-05;9;3897.67
+CLI-0387;Pedro Nascimento;Belo Horizonte;MG;Premium;2023-12-07;29;4620.08
+CLI-0388;Beatriz Oliveira;Curitiba;PR;Premium;2023-06-06;3;3835.45
+CLI-0389;Juliana Pereira;Salvador;BA;Econômico;2023-08-18;27;2644.34
+CLI-0390;Camila Carvalho;Porto Alegre;RS;Padrão;2024-07-10;30;3274.26
+CLI-0391;Maria Almeida;Rio de Janeiro;RJ;Premium;2024-09-03;36;2724.19
+CLI-0392;Rodrigo Lima;Salvador;BA;Econômico;2024-05-12;19;2046.68
+CLI-0393;Ana Nascimento;Recife;PE;Premium;2024-03-11;22;1950.16
+CLI-0394;Carlos Nascimento;Curitiba;PR;Premium;2023-06-26;28;2537.35
+CLI-0395;Pedro Vieira;Porto Alegre;RS;Econômico;2023-01-01;40;4252.85
+CLI-0396;Carlos Nascimento;Belo Horizonte;MG;Econômico;2023-11-08;23;2710.52
+CLI-0397;João Silva;Recife;PE;Econômico;2024-05-16;11;1256.63
+CLI-0398;Juliana Lima;Curitiba;PR;Premium;2023-07-26;11;2154.99
+CLI-0399;Rafael Silva;Recife;PE;Premium;2023-10-24;14;371.05
+CLI-0400;Ana Gomes;São Paulo;SP;Econômico;2023-05-17;37;2597.33
+CLI-0401;Ana Vieira;Rio de Janeiro;RJ;Padrão;2024-10-30;32;528.3
+CLI-0402;Lucas Costa;Belo Horizonte;MG;Econômico;2023-05-23;23;2167.55
+CLI-0403;Juliana Nascimento;São Paulo;SP;Premium;2022-06-05;3;2740.92
+CLI-0404;Juliana Gomes;Rio de Janeiro;RJ;Premium;2023-03-24;14;2328.61
+CLI-0405;Rafael Rodrigues;Salvador;BA;Padrão;2022-02-13;9;3208.57
+CLI-0406;Pedro Nascimento;Recife;PE;Padrão;2024-08-01;5;4990.08
+CLI-0407;Camila Almeida;Salvador;BA;Econômico;2024-01-24;30;3508.44
+CLI-0408;Juliana Rodrigues;Curitiba;PR;Econômico;2023-11-29;37;1768.84
+CLI-0409;Juliana Silva;Salvador;BA;Premium;2023-12-03;21;4491.03
+CLI-0410;Pedro Lima;Fortaleza;CE;Econômico;2022-06-19;29;644.49
+CLI-0411;Marcelo Gomes;Salvador;BA;Econômico;2023-08-10;5;2831.02
+CLI-0412;Pedro Vieira;Salvador;BA;Econômico;2023-10-03;9;3716.22
+CLI-0413;Pedro Carvalho;Salvador;BA;Econômico;2022-05-07;30;4479.56
+CLI-0414;Pedro Carvalho;Goiânia;GO;Premium;2022-06-02;26;3278.55
+CLI-0415;Camila Araújo;Rio de Janeiro;RJ;Padrão;2023-01-14;6;1552.9
+CLI-0416;Carlos Vieira;Recife;PE;Premium;2023-08-29;21;812.77
+CLI-0417;Rodrigo Carvalho;São Paulo;SP;Econômico;2022-10-05;31;3182.92
+CLI-0418;Fernanda Costa;Curitiba;PR;Econômico;2022-02-22;33;3674.8
+CLI-0419;Carlos Silva;Belo Horizonte;MG;Premium;2023-01-22;24;3441.35
+CLI-0420;Beatriz Santos;Belo Horizonte;MG;Padrão;2022-12-12;19;4400.02
+CLI-0421;Beatriz Vieira;São Paulo;SP;Padrão;2022-12-21;38;1065.35
+CLI-0422;Carlos Araújo;Porto Alegre;RS;Premium;2022-02-15;37;1312.53
+CLI-0423;Larissa Nascimento;Rio de Janeiro;RJ;Econômico;2022-03-21;24;3614.68
+CLI-0424;Juliana Rodrigues;Belo Horizonte;MG;Econômico;2023-10-12;38;2875.46
+CLI-0425;Carlos Gomes;São Paulo;SP;Premium;2024-09-06;39;4572.44
+CLI-0426;Rodrigo Araújo;Belo Horizonte;MG;Padrão;2023-04-30;10;1678.59
+CLI-0427;Maria Nascimento;São Paulo;SP;Padrão;2022-06-28;8;1083.42
+CLI-0428;Carlos Carvalho;Porto Alegre;RS;Premium;2024-10-25;24;2407.12
+CLI-0429;Camila Carvalho;Porto Alegre;RS;Padrão;2024-06-04;12;4471.07
+CLI-0430;Rafael Santos;Goiânia;GO;Premium;2023-01-16;32;1256.95
+CLI-0431;Rodrigo Santos;Rio de Janeiro;RJ;Econômico;2022-11-05;2;3884.5
+CLI-0432;Marcelo Vieira;Rio de Janeiro;RJ;Premium;2023-02-22;33;491.23
+CLI-0433;Maria Ferreira;São Paulo;SP;Econômico;2023-09-18;36;249.1
+CLI-0434;Camila Silva;Goiânia;GO;Econômico;2024-12-17;5;2925.71
+CLI-0435;Carlos Carvalho;Fortaleza;CE;Econômico;2024-01-09;11;1006.22
+CLI-0436;Thiago Lima;Rio de Janeiro;RJ;Econômico;2022-03-15;33;838.07
+CLI-0437;Ana Pereira;Porto Alegre;RS;Econômico;2024-03-14;36;3657.14
+CLI-0438;Maria Rodrigues;Porto Alegre;RS;Econômico;2022-11-07;15;3821.05
+CLI-0439;Fernanda Silva;Fortaleza;CE;Premium;2023-09-08;5;4563.52
+CLI-0440;Larissa Araújo;São Paulo;SP;Premium;2023-03-22;36;4517.41
+CLI-0441;Maria Nascimento;Manaus;AM;Premium;2024-09-08;19;255.96
+CLI-0442;Ana Vieira;Rio de Janeiro;RJ;Premium;2023-02-26;11;192.8
+CLI-0443;Rodrigo Ferreira;Curitiba;PR;Padrão;2024-01-24;28;216.85
+CLI-0444;Carlos Nascimento;Rio de Janeiro;RJ;Econômico;2024-08-30;26;1777.12
+CLI-0445;Fernanda Pereira;Recife;PE;Econômico;2022-11-11;23;3560.83
+CLI-0446;Pedro Costa;Recife;PE;Premium;2022-06-04;25;3799.04
+CLI-0447;Rafael Silva;Rio de Janeiro;RJ;Econômico;2023-02-06;32;4801.63
+CLI-0448;Maria Araújo;Rio de Janeiro;RJ;Econômico;2022-04-23;21;3871.07
+CLI-0449;Larissa Silva;Recife;PE;Premium;2023-01-20;37;3091.29
+CLI-0450;Rafael Almeida;São Paulo;SP;Econômico;2024-08-03;2;147.23
+CLI-0451;Carlos Almeida;Manaus;AM;Premium;2024-03-23;26;3457.18
+CLI-0452;Rodrigo Costa;Belo Horizonte;MG;Padrão;2023-03-23;30;371.58
+CLI-0453;Beatriz Araújo;Rio de Janeiro;RJ;Premium;2023-10-14;34;4108.46
+CLI-0454;Fernanda Gomes;Manaus;AM;Econômico;2022-05-15;18;3307.34
+CLI-0455;Ana Costa;Fortaleza;CE;Premium;2023-01-09;14;1547.36
+CLI-0456;Juliana Nascimento;Fortaleza;CE;Econômico;2024-10-02;19;1483.75
+CLI-0457;Beatriz Nascimento;Goiânia;GO;Premium;2023-01-30;40;4386.34
+CLI-0458;Fernanda Pereira;Porto Alegre;RS;Premium;2022-01-11;37;2505.01
+CLI-0459;Larissa Pereira;Goiânia;GO;Padrão;2022-10-17;24;2788.02
+CLI-0460;Juliana Pereira;Curitiba;PR;Premium;2022-08-19;14;3131.41
+CLI-0461;Rafael Carvalho;Manaus;AM;Econômico;2022-02-19;14;4603.14
+CLI-0462;Rodrigo Carvalho;Belo Horizonte;MG;Econômico;2023-04-27;28;2518.4
+CLI-0463;Lucas Vieira;Porto Alegre;RS;Econômico;2024-09-28;13;2030.19
+CLI-0464;Pedro Costa;Porto Alegre;RS;Econômico;2024-12-25;2;240.1
+CLI-0465;Rafael Ferreira;Porto Alegre;RS;Padrão;2024-06-18;24;2632.9
+CLI-0466;Marcelo Carvalho;Fortaleza;CE;Padrão;2023-07-15;34;2199.18
+CLI-0467;Maria Almeida;Curitiba;PR;Premium;2023-04-18;32;3852.28
+CLI-0468;Rafael Costa;São Paulo;SP;Premium;2022-08-05;30;1717.95
+CLI-0469;Fernanda Rodrigues;Manaus;AM;Padrão;2024-03-29;3;679.4
+CLI-0470;Carlos Silva;Goiânia;GO;Padrão;2024-11-16;7;625.67
+CLI-0471;Rodrigo Santos;Curitiba;PR;Premium;2024-01-28;29;957.05
+CLI-0472;Beatriz Costa;Curitiba;PR;Econômico;2024-02-16;5;437.64
+CLI-0473;Maria Santos;Fortaleza;CE;Premium;2023-09-21;25;4593.77
+CLI-0474;Maria Santos;Fortaleza;CE;Econômico;2024-11-23;39;898.62
+CLI-0475;Rodrigo Pereira;São Paulo;SP;Padrão;2023-12-01;22;3569.64
+CLI-0476;Juliana Ferreira;Fortaleza;CE;Premium;2022-12-26;26;2543.82
+CLI-0477;Lucas Carvalho;Fortaleza;CE;Premium;2023-06-08;15;2539.17
+CLI-0478;Rodrigo Silva;Curitiba;PR;Econômico;2023-02-11;19;4396.24
+CLI-0479;Thiago Araújo;Curitiba;PR;Econômico;2023-10-07;18;4960.05
+CLI-0480;Thiago Almeida;Salvador;BA;Premium;2024-05-18;2;123.62
+CLI-0481;Maria Lima;Rio de Janeiro;RJ;Premium;2024-04-27;9;828.76
+CLI-0482;Lucas Almeida;Porto Alegre;RS;Econômico;2024-08-23;18;3459.99
+CLI-0483;Thiago Gomes;Rio de Janeiro;RJ;Econômico;2024-06-30;14;2001.65
+CLI-0484;Lucas Pereira;Porto Alegre;RS;Econômico;2022-04-24;38;1678.23
+CLI-0485;João Carvalho;Recife;PE;Econômico;2023-02-01;17;224.53
+CLI-0486;Camila Santos;Manaus;AM;Premium;2024-04-12;24;243.08
+CLI-0487;Ana Almeida;Rio de Janeiro;RJ;Econômico;2023-06-16;2;1263.5
+CLI-0488;Lucas Ferreira;Curitiba;PR;Premium;2023-01-22;31;4079.72
+CLI-0489;Beatriz Almeida;São Paulo;SP;Padrão;2022-12-20;32;4645.53
+CLI-0490;Juliana Vieira;Manaus;AM;Econômico;2022-09-12;20;4071.6
+CLI-0491;Carlos Ferreira;Salvador;BA;Padrão;2024-03-03;28;2914.3
+CLI-0492;Larissa Santos;Belo Horizonte;MG;Premium;2024-09-01;23;4236.12
+CLI-0493;Juliana Oliveira;Recife;PE;Premium;2024-10-22;1;4838.77
+CLI-0494;Marcelo Vieira;Fortaleza;CE;Padrão;2022-05-17;29;1087.09
+CLI-0495;Camila Araújo;Recife;PE;Premium;2023-08-06;21;2958.57
+CLI-0496;Thiago Santos;Salvador;BA;Premium;2024-04-18;14;2789.95
+CLI-0497;Carlos Vieira;Fortaleza;CE;Premium;2024-11-19;39;2473.15
+CLI-0498;João Santos;São Paulo;SP;Premium;2024-06-30;1;2368.41
+CLI-0499;Thiago Vieira;Belo Horizonte;MG;Premium;2023-08-05;22;2286.48
+CLI-0500;João Gomes;Porto Alegre;RS;Padrão;2023-07-09;37;1564.54
+CLI-0501;Beatriz Gomes;Rio de Janeiro;RJ;Econômico;2023-08-14;12;3157.53
+CLI-0502;Juliana Vieira;Porto Alegre;RS;Econômico;2023-12-20;10;3952.9
+CLI-0503;Thiago Costa;Porto Alegre;RS;Padrão;2024-09-16;11;3398.55
+CLI-0504;Larissa Almeida;Salvador;BA;Premium;2024-10-04;37;4968.25
+CLI-0505;João Oliveira;Porto Alegre;RS;Econômico;2024-04-29;21;1941.52
+CLI-0506;Beatriz Rodrigues;Recife;PE;Econômico;2022-07-16;6;1760.92
+CLI-0507;Marcelo Vieira;Belo Horizonte;MG;Padrão;2022-05-13;34;4337.3
+CLI-0508;Thiago Nascimento;São Paulo;SP;Premium;2023-07-23;5;4667.21
+CLI-0509;Beatriz Lima;Recife;PE;Premium;2022-09-05;8;4945.12
+CLI-0510;Carlos Almeida;Rio de Janeiro;RJ;Econômico;2023-06-12;17;1958.58
+CLI-0511;Maria Lima;Rio de Janeiro;RJ;Econômico;2024-10-30;16;376.93
+CLI-0512;Juliana Carvalho;Recife;PE;Padrão;2023-09-14;12;3678.76
+CLI-0513;Ana Vieira;Recife;PE;Padrão;2024-11-23;35;4301.26
+CLI-0514;Ana Rodrigues;Belo Horizonte;MG;Econômico;2024-09-15;19;2833.07
+CLI-0515;Fernanda Silva;Recife;PE;Premium;2022-04-26;31;2836.76
+CLI-0516;Juliana Costa;Belo Horizonte;MG;Premium;2022-12-20;22;4662.59
+CLI-0517;Rodrigo Araújo;Rio de Janeiro;RJ;Premium;2022-03-05;36;4847.05
+CLI-0518;Fernanda Lima;Fortaleza;CE;Padrão;2022-05-04;40;2092.77
+CLI-0519;Beatriz Silva;Fortaleza;CE;Econômico;2022-10-31;35;2197.46
+CLI-0520;Lucas Costa;Porto Alegre;RS;Padrão;2024-01-10;30;390.83
+CLI-0521;Rodrigo Gomes;Fortaleza;CE;Econômico;2024-12-20;9;4877.45
+CLI-0522;Larissa Silva;São Paulo;SP;Econômico;2023-01-22;31;127.36
+CLI-0523;Larissa Silva;Manaus;AM;Padrão;2024-07-04;3;4068.85
+CLI-0524;Rodrigo Silva;Goiânia;GO;Padrão;2024-12-16;33;3778.93
+CLI-0525;Rodrigo Carvalho;Fortaleza;CE;Econômico;2023-04-06;11;260.0
+CLI-0526;Camila Nascimento;São Paulo;SP;Econômico;2023-04-26;18;2562.67
+CLI-0527;Thiago Vieira;Belo Horizonte;MG;Econômico;2024-06-10;32;3634.88
+CLI-0528;Larissa Almeida;Recife;PE;Premium;2022-12-27;40;2096.44
+CLI-0529;Rodrigo Ferreira;Recife;PE;Padrão;2023-07-05;22;2023.24
+CLI-0530;Rafael Rodrigues;Belo Horizonte;MG;Premium;2024-03-20;24;3410.75
+CLI-0531;Lucas Oliveira;Manaus;AM;Econômico;2024-10-25;7;2278.0
+CLI-0532;Fernanda Rodrigues;Curitiba;PR;Premium;2023-12-18;1;4306.79
+CLI-0533;Carlos Pereira;Porto Alegre;RS;Padrão;2022-09-29;10;380.17
+CLI-0534;Rafael Lima;Belo Horizonte;MG;Econômico;2023-04-08;4;1146.2
+CLI-0535;Thiago Ferreira;Fortaleza;CE;Padrão;2023-12-09;11;4768.91
+CLI-0536;Ana Costa;Recife;PE;Premium;2022-01-21;40;4559.76
+CLI-0537;Rodrigo Carvalho;Recife;PE;Premium;2023-06-13;3;3683.61
+CLI-0538;Maria Almeida;Salvador;BA;Premium;2024-11-20;22;801.46
+CLI-0539;Fernanda Almeida;Curitiba;PR;Padrão;2024-09-07;24;681.08
+CLI-0540;Ana Rodrigues;Goiânia;GO;Padrão;2022-02-20;4;3623.0
+CLI-0541;Rafael Vieira;Porto Alegre;RS;Premium;2024-04-15;39;4659.06
+CLI-0542;Fernanda Almeida;Belo Horizonte;MG;Premium;2023-04-18;14;4965.11
+CLI-0543;Lucas Pereira;Belo Horizonte;MG;Econômico;2024-03-30;11;3884.79
+CLI-0544;Fernanda Oliveira;Porto Alegre;RS;Premium;2023-03-25;32;3396.91
+CLI-0545;Rodrigo Lima;Salvador;BA;Premium;2023-03-02;7;253.9
+CLI-0546;Larissa Carvalho;Recife;PE;Econômico;2022-04-19;1;2752.63
+CLI-0547;Pedro Araújo;Curitiba;PR;Premium;2023-03-02;17;4683.18
+CLI-0548;Beatriz Rodrigues;Porto Alegre;RS;Premium;2022-01-23;18;1051.77
+CLI-0549;Thiago Santos;Porto Alegre;RS;Padrão;2024-11-19;14;2704.21
+CLI-0550;Thiago Carvalho;Fortaleza;CE;Padrão;2022-06-18;9;1851.43
+CLI-0551;Thiago Silva;Goiânia;GO;Premium;2023-07-06;30;1158.07
+CLI-0552;Lucas Carvalho;Manaus;AM;Padrão;2024-02-01;8;2429.39
+CLI-0553;Thiago Almeida;Manaus;AM;Econômico;2022-02-03;25;1535.3
+CLI-0554;Carlos Ferreira;Salvador;BA;Econômico;2022-10-23;7;1888.83
+CLI-0555;Rodrigo Costa;Goiânia;GO;Padrão;2024-08-07;40;3370.09
+CLI-0556;João Pereira;Curitiba;PR;Padrão;2023-02-27;10;3175.86
+CLI-0557;Thiago Lima;Porto Alegre;RS;Econômico;2024-05-27;34;2684.25
+CLI-0558;Carlos Vieira;Porto Alegre;RS;Premium;2022-09-29;34;4960.86
+CLI-0559;João Costa;Manaus;AM;Padrão;2024-07-24;40;4558.08
+CLI-0560;Larissa Costa;Goiânia;GO;Premium;2023-03-09;6;3491.46
+CLI-0561;Pedro Santos;Porto Alegre;RS;Econômico;2024-11-10;24;3807.2
+CLI-0562;Juliana Carvalho;Fortaleza;CE;Econômico;2024-01-14;6;3430.2
+CLI-0563;Pedro Pereira;São Paulo;SP;Econômico;2022-01-24;26;2224.69
+CLI-0564;Rafael Araújo;Goiânia;GO;Premium;2022-03-17;26;3259.46
+CLI-0565;Fernanda Almeida;Curitiba;PR;Econômico;2024-08-22;6;4364.5
+CLI-0566;Thiago Nascimento;Manaus;AM;Econômico;2024-05-27;16;780.24
+CLI-0567;Beatriz Lima;Salvador;BA;Padrão;2022-07-02;1;1217.07
+CLI-0568;Carlos Oliveira;Belo Horizonte;MG;Premium;2024-08-19;25;910.97
+CLI-0569;Juliana Lima;Salvador;BA;Padrão;2024-03-31;16;4545.12
+CLI-0570;Ana Lima;Curitiba;PR;Padrão;2024-04-29;15;3015.13
+CLI-0571;Juliana Lima;Manaus;AM;Econômico;2023-08-15;1;1069.23
+CLI-0572;Juliana Carvalho;Salvador;BA;Econômico;2023-08-09;27;1862.49
+CLI-0573;Ana Santos;Salvador;BA;Premium;2024-08-20;4;2606.65
+CLI-0574;João Oliveira;São Paulo;SP;Econômico;2022-07-06;2;3337.96
+CLI-0575;Ana Almeida;Recife;PE;Premium;2024-02-10;15;3439.85
+CLI-0576;Beatriz Almeida;Salvador;BA;Premium;2024-08-02;14;3621.5
+CLI-0577;Beatriz Costa;Belo Horizonte;MG;Econômico;2023-08-07;33;2303.93
+CLI-0578;Camila Santos;Porto Alegre;RS;Premium;2024-05-22;26;105.03
+CLI-0579;Maria Silva;Manaus;AM;Padrão;2022-01-22;20;2779.68
+CLI-0580;Beatriz Vieira;Fortaleza;CE;Econômico;2022-02-16;29;1102.73
+CLI-0581;Rafael Ferreira;Belo Horizonte;MG;Econômico;2023-09-16;29;3885.86
+CLI-0582;Thiago Vieira;Manaus;AM;Econômico;2023-02-09;31;2609.36
+CLI-0583;Thiago Ferreira;Salvador;BA;Premium;2022-07-07;31;4959.26
+CLI-0584;Thiago Silva;Manaus;AM;Padrão;2023-02-10;32;555.9
+CLI-0585;Marcelo Carvalho;Curitiba;PR;Padrão;2024-01-20;36;608.62
+CLI-0586;Rodrigo Rodrigues;Salvador;BA;Econômico;2023-05-21;18;2138.86
+CLI-0587;Carlos Rodrigues;Curitiba;PR;Econômico;2023-03-14;15;2734.64
+CLI-0588;Beatriz Carvalho;São Paulo;SP;Econômico;2023-10-29;9;2545.77
+CLI-0589;Thiago Pereira;São Paulo;SP;Premium;2024-03-07;28;1776.27
+CLI-0590;Ana Rodrigues;Goiânia;GO;Econômico;2023-09-13;29;2257.31
+CLI-0591;Marcelo Carvalho;Goiânia;GO;Padrão;2024-10-26;16;4885.19
+CLI-0592;Larissa Ferreira;Porto Alegre;RS;Padrão;2023-12-28;3;3062.65
+CLI-0593;Juliana Lima;Goiânia;GO;Premium;2023-03-15;33;279.64
+CLI-0594;João Oliveira;Salvador;BA;Econômico;2023-05-06;3;2596.6
+CLI-0595;Larissa Araújo;Manaus;AM;Econômico;2024-03-09;18;2014.94
+CLI-0596;Carlos Costa;Belo Horizonte;MG;Econômico;2023-09-03;15;1842.97
+CLI-0597;Camila Pereira;Fortaleza;CE;Premium;2022-12-29;8;998.39
+CLI-0598;Rafael Silva;Salvador;BA;Premium;2023-04-27;33;2303.22
+CLI-0599;Lucas Silva;Goiânia;GO;Padrão;2023-03-06;22;4349.48
+CLI-0600;Carlos Almeida;Manaus;AM;Econômico;2024-05-24;1;4531.17
